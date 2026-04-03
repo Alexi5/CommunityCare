@@ -1,5 +1,5 @@
 # CommunityCare
-Community Care task app
+Community Care task app (WIP)
 
 # Screenshots
 https://github.com/user-attachments/assets/f462dda8-3a0d-4203-9efe-1055b84f1169
